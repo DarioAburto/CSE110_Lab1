@@ -32,7 +32,7 @@ One of my favorite hobbies is watching anime. This is one of the many anime open
 - [x] Java   
 
  ## Below is a link that helped me create this ! ##
- This can be found in [Reference.txt](Reference.txt) .
+ This link can be found in [Reference.txt](Reference.txt) file.
 
 
 
