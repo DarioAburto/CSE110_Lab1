@@ -18,7 +18,7 @@ One of my favorite hobbies is watching anime. This is one of the many anime open
 
 ![](ichigo.jpeg)
 
-## *[What am I Interested in?](#what-am-i-interested-in)* ##
+## *[What am I Interested in?](#what-am-i-interested-in)* 
 1. Cyber Security  
 2. Video Game Programming 
 3. IT
