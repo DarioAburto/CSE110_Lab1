@@ -22,7 +22,7 @@ One of my favorite hobbies is watching anime! Below is a list of some of my favo
 - Naruto 
 - Berserk 
 
-I also really like anime openings since they are so catchy! This is one of the many anime openings that I really like from[Bleach](https://www.youtube.com/watch?v=dfh4JuzYNpM&ab_channel=CrunchyrollCollection) :D!!! Here is also a picture of my favorite character from bleach!
+I also really like anime openings since they are so catchy! This is one of the many anime openings that I really like from [Bleach](https://www.youtube.com/watch?v=dfh4JuzYNpM&ab_channel=CrunchyrollCollection) :D!!! Here is also a picture of my favorite character from bleach!
 
 ![](ichigo.jpeg)
 
