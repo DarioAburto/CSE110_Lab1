@@ -14,7 +14,15 @@ git commit
 git push 
 ```
 ## *[Any Hobbies?](#any-hobbies)*
-One of my favorite hobbies is watching anime. This is one of the many anime openings that I really like [Bleach](https://www.youtube.com/watch?v=dfh4JuzYNpM&ab_channel=CrunchyrollCollection) :D!!! Here is also a picture of my favorite character from bleach!
+One of my favorite hobbies is watching anime! Below is a list of some of my favorite animes in no particular order:
+
+- Bleach 
+- Hunter x Hunter 
+- Attack on Titan 
+- Naruto 
+- Berserk 
+
+I also really like anime openings since they are so catchy! This is one of the many anime openings that I really like from[Bleach](https://www.youtube.com/watch?v=dfh4JuzYNpM&ab_channel=CrunchyrollCollection) :D!!! Here is also a picture of my favorite character from bleach!
 
 ![](ichigo.jpeg)
 
